@@ -1,10 +1,1 @@
-[
-    {
-        "id": 1,
-        "text": "This is todo 1"
-    },
-    {
-        "id": 2,
-        "text": "This is todo 2"
-    }
-]
+[{"id":1,"text":"egg","finished":true},{"text":"bread","id":2,"finished":false},{"text":"peach","id":3,"finished":true},{"text":"make board","id":4,"finished":false}]
